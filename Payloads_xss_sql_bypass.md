@@ -1,8 +1,6 @@
-# Recopilación de todos los Payloads usados / creados por mi.
+# Recopilación de Payloads
 
 En este repositorio encontrarías una lista de payloads que sirven para inyecciones xss, html, ccs y sql.
-
-La mayoria de los payloads aquí mostrados estan creados o modificados por mi.
 
 ## INDICE 
 * [INYECCIÓNES XSS Y HTML](#INYECCIÓNES-XSS-Y-HTML)
